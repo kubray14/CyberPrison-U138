@@ -51,7 +51,7 @@ içinde bulmaca ve parkur mekaniklerini bazen beraber bazense ayrı ayrı sunuyo
 - **Weekly Scrum**: Weekly Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Weekly Scrum toplantısı örneği Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
 
 - **Sprint  update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](![image](https://github.com/kubray14/U-138-Bootcamp/assets/101721434/43e2da57-4509-49f9-827a-da5f2d9619c4)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
