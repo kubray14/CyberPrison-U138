@@ -78,3 +78,34 @@ Türü,hedef kitlesi,Temel mekanikleri,Tahmini Oynaş süresi ve Level Desing ka
 U-138 Backlog (https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-project)
 
 ---
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 250 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](![png](https://github.com/kubray14/CyberPrison-U138/assets/135714651/f24866a8-8fc6-4c96-8f25-8728a3de0591)
+ 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]()
+  ![Screenshot 2]()
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
+Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Beklenen Sprint Puanın altında kalındığı için sonraki Sprit döneminde sorumluluklar artırılıcak.
+
+---
+
+## Product Backlog URL
+
+[U-138 Meistertask update](https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-project) 
+
+---
