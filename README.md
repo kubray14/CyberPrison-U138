@@ -90,8 +90,8 @@ U-138 Backlog (https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-proje
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
+  ![Screenshot 1]() (yüklenicek)
+  ![Screenshot 2]() (yüklenicek)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
