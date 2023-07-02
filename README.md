@@ -90,8 +90,10 @@ U-138 Backlog (https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-proje
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]() (yüklenicek)
-  ![Screenshot 2]() (yüklenicek)
+  ![Screenshot 1]() (![LevelDesign1](https://github.com/kubray14/CyberPrison-U138/assets/101721434/a2fdb2eb-a692-4fe1-8f14-2e1bd2bcde3a)
+)
+  ![Screenshot 2]() (![LevelDesign2](https://github.com/kubray14/CyberPrison-U138/assets/101721434/9eeedc13-68fe-4032-b04a-53acad676d6b)
+)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
