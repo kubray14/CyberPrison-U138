@@ -83,6 +83,8 @@ U-138 Backlog (https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-proje
 - **Sprint içinde tamamlanması tahmin edilen puan**: 250 Puan
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir.
+- Daily Screum : ![GFGF](https://github.com/kubray14/CyberPrison-U138/assets/135714651/b5048c30-ea9b-444b-8797-47df8efe2788)
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](![png](https://github.com/kubray14/CyberPrison-U138/assets/135714651/f24866a8-8fc6-4c96-8f25-8728a3de0591)
