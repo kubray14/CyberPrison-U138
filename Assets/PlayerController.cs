@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     public float lookSpeed = 2f;
     public float gravity = 9.8f;
     public bool isGrounded = true;
-
+    Vector3 moveDirection;
 
     private CharacterController controller;
     private float pitch = 0f;
@@ -18,27 +18,6 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         controller = GetComponent<CharacterController>();
-    }
-
-    void FixedUpdate()
-    {
-        float horizontalInput = Input.GetAxis("Horizontal");
-        float verticalInput = Input.GetAxis("Vertical");
-        float mouseXInput = Input.GetAxis("Mouse X");
-        float mouseYInput = Input.GetAxis("Mouse Y");
-
-        Vector3 moveDirection = new Vector3(horizontalInput, 0f, verticalInput);
-        moveDirection = handTransform.TransformDirection(moveDirection);
-        moveDirection.y = 0f;
-        moveDirection.Normalize();
-
-        controller.Move(moveDirection * moveSpeed * Time.deltaTime);
-
-       
-        // Karakterin dönmesini sağla
-        transform.Rotate(Vector3.up, mouseXInput * rotationSpeed * Time.deltaTime);
-
-        
     }
 
     void Update()
@@ -52,10 +31,35 @@ public class PlayerController : MonoBehaviour
 
          if (!isGrounded || !controller.isGrounded)
         {
-            moveDirection.y -= gravity * Time.fixedDeltaTime;
+         //   moveDirection.y -= gravity * Time.deltaTime;
         }
-
+        float distanceToGround = 0.1f;
+        int groundLayer = LayerMask.GetMask("Ground");
+        RaycastHit hit;
+        isGrounded = Physics.SphereCast(transform.position, controller.radius, -transform.up, out hit, distanceToGround, groundLayer);
     }
+    void FixedUpdate()
+    {
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+        float mouseXInput = Input.GetAxis("Mouse X");
+        float mouseYInput = Input.GetAxis("Mouse Y");
+
+        moveDirection = new Vector3(horizontalInput, 0f, verticalInput);
+        moveDirection = handTransform.TransformDirection(moveDirection);
+         moveDirection.y -= gravity * Time.deltaTime;
+        moveDirection.Normalize();
+
+        controller.Move(moveDirection * moveSpeed * Time.deltaTime);
+
+       
+        // Karakterin dönmesini sağla
+        transform.Rotate(Vector3.up, mouseXInput * rotationSpeed * Time.deltaTime);
+
+        
+    }
+
+   
     
     private void OnCollisionStay(Collision other) {
         if (other.gameObject.CompareTag("Ground"))
