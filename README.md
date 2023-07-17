@@ -147,7 +147,7 @@ Alınan kararlar: En son kalan odaların geçiş kodları yazılıcak yönergele
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-project)
+[u-138 meistertask ](https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-project)
 
 
 ---
