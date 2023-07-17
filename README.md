@@ -118,7 +118,7 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan ikinciden kalan ile birlikte**: 3000 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan ikinciden kalan ile birlikte**: 300 Puan
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats] ![image](https://github.com/kubray14/CyberPrison-U138/assets/135714651/a2e2660e-2d49-4118-927c-637a5468882a)
 
