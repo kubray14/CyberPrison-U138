@@ -115,3 +115,39 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 [U-138 Meistertask update](https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-project) 
 
 ---
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan ikinciden kalan ile birlikte**: 300 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats] ![image](https://github.com/kubray14/CyberPrison-U138/assets/135714651/a2e2660e-2d49-4118-927c-637a5468882a)
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1]![1](https://github.com/kubray14/CyberPrison-U138/assets/135714651/ace15183-2f84-4114-b730-d7b58fb31e4e)
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]![sc1](https://github.com/kubray14/CyberPrison-U138/assets/135714651/52362cc7-bbba-4ac3-bde9-d2293dbd2b51)
+
+  ![Screenshot 2]![sc2](https://github.com/kubray14/CyberPrison-U138/assets/135714651/351d1819-e25b-4cef-a85c-36138cd205a3)
+
+  ![Screenshot 3]![sc3](https://github.com/kubray14/CyberPrison-U138/assets/135714651/bf8840a9-74c5-4f80-bb4d-20006d723ba1)
+
+- **Sprint Review**: 
+Alınan kararlar: En son kalan odaların geçiş kodları yazılıcak yönergeler ve ux/uı a bakılacak 
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek projede başlarda daha işi sıkı tutmaları adına vurgu yapıldı
+
+
+---
+
+## Product Backlog URL
+
+[u-138 meistertask ](https://www.meistertask.com/app/project/9tZdZxxB/u-138-game-project)
+
+
+---
